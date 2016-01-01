@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-01T18:15:18.958Z'
-dateModified: '2016-01-01T18:14:41.648Z'
+datePublished: '2016-01-01T18:18:41.418Z'
+dateModified: '2016-01-01T18:15:47.647Z'
 title: 'Shooting around Signal Hill, CA'
 author: []
+sourcePath: _posts/2016-01-01-shooting-around-signal-hill-ca.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-01-shooting-around-signal-hill-ca.md
-published: true
 url: shooting-around-signal-hill-ca/index.html
 _type: Article
 
