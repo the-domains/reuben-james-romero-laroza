@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RJ's Personal Website]]></title>
+        <description><![CDATA[RJ's Personal Website]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jan 2016 17:17:43 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Happy New Years! ]]></title>
+            <description><![CDATA[<article><h1>Happy New Years! </h1><p>I celebrate every New Years Eve is the same, and I wouldn't have it any other way. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18792f2f64c08414ce6502df992c74838249b599.jpg"></article>]]></description>
+            <link>undefinedhappy-new-years/index.html</link>
+            <guid isPermaLink="false">9b9812b4-ab31-4942-a50c-0eeaa8606349</guid>
+            <pubDate>Fri, 01 Jan 2016 17:17:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
