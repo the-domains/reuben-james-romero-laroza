@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[RJ's Personal Website]]></title>
         <description><![CDATA[RJ's Personal Website]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reuben-james-romero-laroza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 17:17:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 17:21:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reuben-james-romero-laroza/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Happy New Years! ]]></title>
             <description><![CDATA[<article><h1>Happy New Years! </h1><p>I celebrate every New Years Eve is the same, and I wouldn't have it any other way. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18792f2f64c08414ce6502df992c74838249b599.jpg"></article>]]></description>
-            <link>undefinedhappy-new-years/index.html</link>
+            <link>https://thegrid.ai/reuben-james-romero-laroza/happy-new-years/index.html</link>
             <guid isPermaLink="false">9b9812b4-ab31-4942-a50c-0eeaa8606349</guid>
-            <pubDate>Fri, 01 Jan 2016 17:17:43 GMT</pubDate>
+            <pubDate>Fri, 01 Jan 2016 17:20:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
